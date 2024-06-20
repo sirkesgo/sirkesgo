@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java/Python<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Design Patterns
+🔭 I’m currently working on Java/Python<br>🌱 I’m currently learning Design Patterns
 
 
 # 💻 Tech Stack:
